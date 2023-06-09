@@ -1,3 +1,6 @@
+""" 10. Realiza un programa de forma recursiva que, dado un número entero, cuente su número de dígitos,
+sin usar el operador segmentador."""
+
 def contar_digitos(n):
     if n == 0:
         return 1
