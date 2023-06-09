@@ -1,4 +1,4 @@
-""" 4. Programa, haciendo uso de la recursividad, una función en Python
+""" 7. Programa, haciendo uso de la recursividad, una función en Python
 que permita obtener el término de orden n de la sucesión de Fibonacci."""
 
 def sucesion_fibonacci(n):
@@ -8,6 +8,7 @@ def sucesion_fibonacci(n):
         return sucesion_fibonacci(n - 2) + sucesion_fibonacci(n - 1)
 
           
+# PROGRAMA
 
 n = int(input('Introduce el termino que quieres de la sucesión de Fibonacci: '))
 print(sucesion_fibonacci(n)) # Pimer termino = 0.
