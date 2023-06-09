@@ -2,13 +2,20 @@
 
 def division(n1, n2):
     total = 0
-    if n1 == 0 or n2 == 0:
-        print('ERROR. NO SE PUEDE DIVIDIR ENTRE 0.')
-    elif n2 == 1:
-        return n1
-    else:
+    if n1 == 0:
+        return total
+    elif n1-n2 == 0:
         total += 1
-        return n1 - division(n1, n2 - 1)
-    
+        return total
+    else:
+        total +=1
+        return total + division(n1-n2, n2)
 
-print(division(4,2))
+
+# PROGRAMA
+
+n1 = int(input('Introduce un número: '))
+n2 = int(input('Introduce otro número: '))
+
+print('El resultado es:', division(n1, n2))
+
