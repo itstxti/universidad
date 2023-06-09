@@ -10,6 +10,8 @@ def sucesion_fibonacci(n):
           
 # PROGRAMA
 
-n = int(input('Introduce el termino que quieres de la sucesión de Fibonacci: '))
-print(sucesion_fibonacci(n)) # Pimer termino = 0.
-
+try:
+    n = int(input('Introduce el termino que quieres de la sucesión de Fibonacci: '))
+    print(sucesion_fibonacci(n)) # Pimer termino = 0.
+except:
+    print('Error, el número introducido no es válido.')

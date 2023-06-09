@@ -14,8 +14,11 @@ def division(n1, n2):
 
 # PROGRAMA
 
-n1 = int(input('Introduce un número: '))
-n2 = int(input('Introduce otro número: '))
+try:
+    n1 = int(input('Introduce un número: '))
+    n2 = int(input('Introduce otro número: '))
 
-print('El resultado es:', division(n1, n2))
-
+    print('El resultado es:', division(n1, n2))
+    
+except:
+    print('Error, el número introducido no es válido.')
