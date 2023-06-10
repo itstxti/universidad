@@ -20,4 +20,3 @@ try:
     print(contar_digitos(str(n))) # vuele a transformarlo en str
 
 except: print('ERROR, el número introducido no es válido.')
-

@@ -29,5 +29,3 @@ alumnos = [a1, a2, a3, a4]
 print(suma_edades([]), '=', 0) # lista vacia
 print(suma_edades([a3, a2, a4]), '=', 21 + 18 + 25) 
 print(suma_edades(alumnos), '=' , 19 + 18 + 21 + 25)
-
-

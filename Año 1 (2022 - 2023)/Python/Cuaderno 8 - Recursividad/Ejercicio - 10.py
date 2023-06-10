@@ -23,6 +23,3 @@ try:
 
 except:
     print('ERROR, el número introducido no es válido.')
-
-
-

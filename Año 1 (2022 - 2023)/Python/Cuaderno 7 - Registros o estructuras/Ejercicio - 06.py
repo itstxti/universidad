@@ -9,4 +9,3 @@ personas = [tPersona('Luis', 'H', 22),
             tPersona('Luisa', 'M', 28)]
 
 print(personas) 
-
