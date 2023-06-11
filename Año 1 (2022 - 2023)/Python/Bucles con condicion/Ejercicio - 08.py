@@ -13,13 +13,17 @@ LETRA	N	J	Z	S	Q	V	H	L	C	K	E
 """
 
 def validar_dni(numeros, letra):
+    
+    if len(str(numeros)) != 8:
+        return False
+
     resto = numeros % 23
     letras = 'TRWAGMYFPDXBNJZSQVHLCKE'
-    
+
     for i in range(len(letras)):
-        if resto == i and letra == letras[i]:
+        if resto == i and letra.upper() == letras[i]:
             return True
     
     return False
 
-print(validar_dni(99843183, 'E'))
+print(validar_dni(51744543, 'v'))
