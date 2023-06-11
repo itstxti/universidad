@@ -6,11 +6,11 @@ Si todos están de acuerdo se cambiará.
 Si nadie está en desacuerdo se cambiará.
 Haz un subprograma que determine si hay unanimidad en cambiarlo."""
 
-quieres_cambiar= (True, True, True, True)
+quieres_cambiar= (True, True, True, False)
 
 def unanimidad(lista):
     
-    for i in range(0, len(lista)-1):
+    for i in range(0, len(lista)):
         if lista[i] == False:
             return False
     else: return True

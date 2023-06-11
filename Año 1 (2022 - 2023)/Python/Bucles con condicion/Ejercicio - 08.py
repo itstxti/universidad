@@ -1,0 +1,25 @@
+""" 8. El Documento Nacional de Identidad (DNI) español está compuesto por un número de 8 dígitos, y una letra.
+Haz un subprograma que indique si un DNI es válido.
+
+Se divide el número entre 23 y el resto se sustituye por una letra de la siguiente tabla:
+
+RESTO	0	1	2	3	4	5	6	7	8	9	10	11
+LETRA	T	R	W	A	G	M	Y	F	P	D	X	B
+ 
+
+RESTO	12	13	14	15	16	17	18	19	20	21	22
+LETRA	N	J	Z	S	Q	V	H	L	C	K	E
+
+"""
+
+def validar_dni(numeros, letra):
+    resto = numeros % 23
+    letras = 'TRWAGMYFPDXBNJZSQVHLCKE'
+    
+    for i in range(len(letras)):
+        if resto == i and letra == letras[i]:
+            return True
+    
+    return False
+
+print(validar_dni(99843183, 'E'))
