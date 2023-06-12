@@ -1,4 +1,4 @@
-"""7. Generaliza, modifica, tu código para que, en las situaciones del ejercicio anterior,
+""" 7. Generaliza, modifica, tu código para que, en las situaciones del ejercicio anterior,
 el usuario pueda contestar en el idioma que desee, por ejemplo: Si/NO, en inglés YES/NO,
 francés OUI/NE, bool: T/F/0/1, pero también podrá decir Aceptar/Cancelar/NUNCA/CLARO, etc.
 Y además podrá hacerlo en mayúsculas o minúsculas.
