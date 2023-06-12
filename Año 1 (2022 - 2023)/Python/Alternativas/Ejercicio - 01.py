@@ -1,3 +1,5 @@
+""" 1. Haz un subprograma que escriba el nombre de un número cardinal, comprendido entre 30 y 99."""
+
 def muestra_cardinal(n):
     if n >= 90:
         print('noventa', end='')

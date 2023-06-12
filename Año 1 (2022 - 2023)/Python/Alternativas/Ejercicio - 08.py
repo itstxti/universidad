@@ -31,7 +31,6 @@ def supera_tiempo(hora, min, max_hora, max_min):
         return True
     return False
 
-# Ejemplos de uso con los casos de prueba
 entrada_1 = (8, 30)
 salida_1 = (16, 45)
 tiempo_trabajado_1 = calcular_tiempo_trabajado(entrada_1, salida_1)
