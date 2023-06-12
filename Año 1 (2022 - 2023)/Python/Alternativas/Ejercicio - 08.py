@@ -1,3 +1,10 @@
+""" 8. Una fábrica funciona ininterrumpidamente (7días*24horas).
+Se desea calcular el tiempo, expresado en horas y minutos, que ha trabajado un empleado,
+sabiendo el momento de entrada y el de salida (expresados en horas y minutos).
+Un trabajador no puede trabajar más de 8 horas seguidas, de modo que el momento de entrada y el de salida,
+corresponden al mismo día (si entrada <= que la salida) o a días consecutivos (en caso contrario).
+El programa indicará las horas y minutos trabajadas y caso de haber trabajado más de 8 horas, dará una alerta."""
+
 def calcular_tiempo_trabajado(entrada, salida):
     horas_entrada, minutos_entrada = entrada
     horas_salida, minutos_salida = salida
@@ -13,11 +20,17 @@ def calcular_tiempo_trabajado(entrada, salida):
         minutos_trabajados += 60
         horas_trabajadas -= 1
 
-    if horas_trabajadas > 8 or (horas_trabajadas == 8 and minutos_trabajados > 0):
+    if supera_tiempo(horas_trabajadas, minutos_trabajados, 8, 0):
         print("¡Alerta! Has trabajado más de 8 horas seguidas.")
 
     return horas_trabajadas, minutos_trabajados
-    
+
+
+def supera_tiempo(hora, min, max_hora, max_min):
+    if hora > max_hora or (hora == max_hora and min > max_min):
+        return True
+    return False
+
 # Ejemplos de uso con los casos de prueba
 entrada_1 = (8, 30)
 salida_1 = (16, 45)
