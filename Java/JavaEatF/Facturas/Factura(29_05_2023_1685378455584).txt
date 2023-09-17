@@ -1,0 +1,38 @@
+Restaurante: Mayser
+CIF: C3946510
+Dirección: Santa Clara, 95, 28017, Madrid
+Especialidad: Mexicano
+Catering: true
+Calificación sobre 5: 3.0
+
+
+-------------------------------- Factura Restaurante: Catering --------------------------------
+-------------------------------- Fecha: 29/05/2023 -------------------------------
+
+
+Cliente: BBVA
+Correo: info@bbva.com
+Clave: 2222
+Teléfono: 911234567
+Dirección: Paseo de Recoletos, 10, 28011, Madrid
+CIF: B8431952Y
+Web: www.bbva.com
+
+
+Tarjeta de crédito.
+Titular: Titular 2
+Número: 4444333322221111
+Fecha de caducidad: 30/06/2024
+
+
+Servicios prestados.
+Camareros: 800
+Cocineros: 1000
+Decoración: 500
+Alquiler de espacio privado: 1000
+Comida: 150.0
+---------------------------------------------------------------------------------
+TOTAL: 3450
+
+
+-------------------------------------------------------------------------------

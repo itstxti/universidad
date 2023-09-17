@@ -1,0 +1,54 @@
+Restaurante: Mayser
+CIF: C3946510
+Dirección: Santa Clara, 95, 28017, Madrid
+Especialidad: Mexicano
+Catering: true
+Tiempo medio de envio: 15.0
+Gastos de envio: 1.33
+Calificación sobre 5: 0.0
+
+
+-------------------------------- Factura Restaurante --------------------------------
+-------------------------------- Fecha: 29/05/2023 -------------------------------
+
+
+Cliente: Carlos Martínez
+Correo: carlos@gmail.com
+Clave: 5555
+Teléfono: 890123456
+Dirección: Calle Atocha, 78, 28012, Madrid
+DNI: 31568683L
+
+
+Tarjeta de crédito.
+Titular: Carlos Martínez
+Número: 1376958402539176
+Fecha de caducidad: 20/07/2026
+
+
+Nombre: Enchiladas mexicanas de pollo
+Ingredientes: Pollo, cebolla, chiles serranos, nata, tomate, tortilla de maiz, queso.
+Precio: 10.95
+Cantidad: 1
+Total: 10,95
+
+
+Nombre: Tacos mexicanos de ternera
+Ingredientes: Ternera, ajo, cebolla, zanahoria, chile chipotle, tomate, tortilla de maiz.
+Precio: 9.95
+Cantidad: 1
+Total: 9,95
+
+
+Nombre: Nachos a la mexicana con queso poblano
+Ingredientes: Cebolla, chiles poblanos, ajo, queso crema, queso manchego, leche, nachos.
+Precio: 7.05
+Cantidad: 2
+Total: 14,1
+
+
+---------------------------------------------------------------------------------
+TOTAL: 36,33
+
+
+-------------------------------------------------------------------------------

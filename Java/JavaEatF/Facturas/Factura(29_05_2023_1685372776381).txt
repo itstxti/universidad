@@ -1,0 +1,47 @@
+Restaurante: Mayser
+CIF: C3946510
+Dirección: Santa Clara, 95, 28017, Madrid
+Especialidad: Mexicano
+Catering: true
+Tiempo medio de envio: 15.0
+Gastos de envio: 1.33
+Calificación sobre 5: 3.9
+
+
+-------------------------------- Factura Restaurante --------------------------------
+-------------------------------- Fecha: 29/05/2023 -------------------------------
+
+
+Cliente: Inditex
+Correo: info@inditex.com
+Clave: 5555
+Teléfono: 914567890
+Dirección: Calle de Serrano, 36, 28011, Madrid
+CIF: E6438491V
+Web: www.inditex.com
+
+
+Tarjeta de crédito.
+Titular: Titular 5
+Número: 9999888877776666
+Fecha de caducidad: 31/08/2027
+
+
+Nombre: Nachos a la mexicana con queso poblano
+Ingredientes: Cebolla, chiles poblanos, ajo, queso crema, queso manchego, leche, nachos.
+Precio: 7.05
+Cantidad: 5
+Total: 35,25
+
+
+---------------------------------------------------------------------------------
+TOTAL: 36,58
+
+
+-------------------------------------------------------------------------------
+DESCUENTO: 3,66
+---------------------------------------------------------------------------------
+TOTAL TRAS DESCUENTO: 32,92
+
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+Restaurante: Pastamore Alcala
+CIF: N864513
+Dirección: Alcala, 235, 28008, Madrid
+Especialidad: Italiano
+Catering: true
+Tiempo medio de envio: 20.0
+Gastos de envio: 2.55
+Calificación sobre 5: 4.5
+
+
+-------------------------------- Factura Restaurante --------------------------------
+-------------------------------- Fecha: 17/09/2023 -------------------------------
+
+
+Cliente: Juan Pérez
+Correo: juan@gmail.com
+Clave: 1111
+Teléfono: 912345678
+Dirección: Calle Mayor, 12, 28001, Madrid
+DNI: 8613565M
+
+
+Tarjeta de crédito.
+Titular: Juan Pérez
+Número: 4829367910325407
+Fecha de caducidad: 30/11/2023
+
+
+Nombre: Espaguetis carbonara
+Ingredientes: Pasta, queso, bacon, huevo.
+Precio: 11.05
+Cantidad: 1
+Total: 11,05
+
+
+---------------------------------------------------------------------------------
+TOTAL: 13,6
+
+
+-------------------------------------------------------------------------------

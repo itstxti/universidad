@@ -1,0 +1,61 @@
+Restaurante: Casa del oro
+CIF: F865324
+Dirección: Pastor, 4, 28011, Madrid
+Especialidad: Chino
+Catering: false
+Tiempo medio de envio: 10.0
+Gastos de envio: 1.05
+Calificación sobre 5: 0.0
+
+
+-------------------------------- Factura Restaurante --------------------------------
+-------------------------------- Fecha: 29/05/2023 -------------------------------
+
+
+Cliente: BBVA
+Correo: info@bbva.com
+Clave: 2222
+Teléfono: 911234567
+Dirección: Paseo de Recoletos, 10, 28011, Madrid
+CIF: B8431952Y
+Web: www.bbva.com
+
+
+Tarjeta de crédito.
+Titular: Titular 2
+Número: 4444333322221111
+Fecha de caducidad: 30/06/2024
+
+
+Nombre: Rollitos de primavera
+Ingredientes: Obleas de arroz, zanahorias, cebolletas, gambas, cilantro, salsa de soja.
+Precio: 7.63
+Cantidad: 2
+Total: 15,26
+
+
+Nombre: Sopa Wan Tan
+Ingredientes: Pasta wantan, carne molida, huevo, cebolla china, jengibre.
+Precio: 8.05
+Cantidad: 1
+Total: 8,05
+
+
+Nombre: Tallarines chinos con verduras
+Ingredientes: Tallarines chinos, calabacin, cebolla, pimienta verde, ternera, salsa de soja.
+Precio: 8.5
+Cantidad: 1
+Total: 8,5
+
+
+---------------------------------------------------------------------------------
+TOTAL: 32,86
+
+
+-------------------------------------------------------------------------------
+DESCUENTO: 3,29
+---------------------------------------------------------------------------------
+TOTAL TRAS DESCUENTO: 29,57
+
+
+-------------------------------------------------------------------------------
