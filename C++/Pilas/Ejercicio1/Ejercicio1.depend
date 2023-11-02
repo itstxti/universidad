@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1697481332 source:c:\users\alumno\desktop\sesion4\ejercicio1\main.cpp
+	"header.h"
+	"metodos.cpp"
+
+1697481326 c:\users\alumno\desktop\sesion4\ejercicio1\header.h
+	<iostream>
+
+1697481326 c:\users\alumno\desktop\sesion4\ejercicio1\metodos.cpp
+	"header.h"
+
+1697481572 source:c:\users\tgarc\onedrive\documentos\universidad\c++\pilas\ejercicio1\main.cpp
+	"header.h"
+	"metodos.cpp"
+
+1697481328 c:\users\tgarc\onedrive\documentos\universidad\c++\pilas\ejercicio1\header.h
+	<iostream>
+
+1697481572 c:\users\tgarc\onedrive\documentos\universidad\c++\pilas\ejercicio1\metodos.cpp
+	"header.h"
+

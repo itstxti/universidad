@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698083590 source:c:\users\tgarc\onedrive\documentos\universidad\c++\colas\ejercicio 1\main.cpp
+	<iostream>
+	"header.h"
+	"metodos.cpp"
+
+1698083475 c:\users\tgarc\onedrive\documentos\universidad\c++\colas\ejercicio 1\header.h
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
+1698081546 c:\users\tgarc\onedrive\documentos\universidad\c++\colas\ejercicio 1\metodos.cpp
+	"header.h"
+
