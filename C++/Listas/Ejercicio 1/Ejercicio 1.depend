@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701631737 source:c:\users\tgarc\onedrive\documentos\universidad\c++\listas\ejercicio 1\main.cpp
+	"listas.h"
+	"listas.cpp"
+	<iostream>
+
+1701631713 c:\users\tgarc\onedrive\documentos\universidad\c++\listas\ejercicio 1\listas.h
+	<iostream>
+
+1701631678 c:\users\tgarc\onedrive\documentos\universidad\c++\listas\ejercicio 1\listas.cpp
+	"listas.h"
+

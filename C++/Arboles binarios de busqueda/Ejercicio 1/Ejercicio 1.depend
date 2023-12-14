@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702583051 source:c:\users\tgarc\onedrive\documentos\universidad\c++\arboles binarios de busqueda\ejercicio 1\main.cpp
+	"arboles.h"
+	"arboles.cpp"
+	<iostream>
+
+1702583006 c:\users\tgarc\onedrive\documentos\universidad\c++\arboles binarios de busqueda\ejercicio 1\arboles.h
+	<iostream>
+
+1702582991 c:\users\tgarc\onedrive\documentos\universidad\c++\arboles binarios de busqueda\ejercicio 1\arboles.cpp
+	"arboles.h"
+

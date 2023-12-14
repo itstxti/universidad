@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701631976 source:c:\users\tgarc\onedrive\documentos\universidad\c++\listas doblemente enlazadas\ejercicio 1\main.cpp
+	"listas_dobles.h"
+	"listas_dobles.cpp"
+	<iostream>
+
+1701631944 c:\users\tgarc\onedrive\documentos\universidad\c++\listas doblemente enlazadas\ejercicio 1\listas_dobles.h
+	<iostream>
+
+1701631907 c:\users\tgarc\onedrive\documentos\universidad\c++\listas doblemente enlazadas\ejercicio 1\listas_dobles.cpp
+	"listas_dobles.h"
+
