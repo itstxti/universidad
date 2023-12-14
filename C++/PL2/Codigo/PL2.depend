@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1702394881 source:c:\users\tgarc\onedrive\documentos\universidad\c++\pl2\pl2\main.cpp
+	"header.h"
+	"metodos.cpp"
+	<ctime>
+	<iomanip>
+	<iostream>
+
+1702395348 c:\users\tgarc\onedrive\documentos\universidad\c++\pl2\pl2\header.h
+	<iostream>
+
+1702402081 c:\users\tgarc\onedrive\documentos\universidad\c++\pl2\pl2\metodos.cpp
+	"header.h"
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<fstream>
+
+1702394881 source:c:\users\tgarc\onedrive\escritorio\codigo\main.cpp
+	"header.h"
+	"metodos.cpp"
+	<ctime>
+	<iomanip>
+	<iostream>
+
+1702395348 c:\users\tgarc\onedrive\escritorio\codigo\header.h
+	<iostream>
+
+1702402081 c:\users\tgarc\onedrive\escritorio\codigo\metodos.cpp
+	"header.h"
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<fstream>
+
