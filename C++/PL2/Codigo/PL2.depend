@@ -35,3 +35,21 @@
 	<iomanip>
 	<fstream>
 
+1702583516 source:c:\users\tgarc\onedrive\documentos\universidad\universidad\c++\pl2\codigo\main.cpp
+	"header.h"
+	"metodos.cpp"
+	<ctime>
+	<iomanip>
+	<iostream>
+
+1702583516 c:\users\tgarc\onedrive\documentos\universidad\universidad\c++\pl2\codigo\header.h
+	<iostream>
+
+1702583516 c:\users\tgarc\onedrive\documentos\universidad\universidad\c++\pl2\codigo\metodos.cpp
+	"header.h"
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<fstream>
+
