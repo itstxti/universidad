@@ -3,6 +3,6 @@ En este repositorio se encuentras alguna de los trabajos y ejercicios que he hec
 
 ## Estructura del Repositorio
 
-- `C++`: Proyectos en C++.
-- `Java`: Proyectos en Java.
-- `Python`: Proyectos en Python.
+- [`C++`](C++): Proyectos en C++.
+- [`Java`](Java): Proyectos en Java.
+- [`Python`](Python): Proyectos en Python.
