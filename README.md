@@ -26,4 +26,6 @@ Los proyectos en C++ se han desarrollado en CodeBlocks; los más grandes son los
 Los proyectos en Java se han desarrollado en Apache NetBeans Ide 17; los más grandes son los siguientes:
 
 - [**JavaEat**](Java/JavaEat): Aplicación de servicio de comida a domicilio usando la biblioteca gráfica Swing. Incluye JavaDoc y un manual de usuario.
-
+    ##### Credenciales de Administrador:
+    - **Usuario:** admin@javaeat.com
+    - **Contraseña:** admin
