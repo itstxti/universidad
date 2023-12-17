@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'C:/Users/busto/.m2/repository/com/mycompany/JavaEat/1.0-SNAPSHOT/JavaEat-1.0-SNAPSHOT.jar;C:/Users/busto/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE170/AbsoluteLayout-RELEASE170.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/busto/Documents/UAH/2.2 Programación/JAVA_EAT/2.7YAAA/JavaEatF/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/busto/Documents/UAH/2.2 Programación/JAVA_EAT/2.7YAAA/JavaEatF/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JavaEatF 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JavaEatF 1.0-SNAPSHOT API'
+Interfaz
+JavaEatF
+C:\Users\busto\.m2\repository\com\mycompany\JavaEat\1.0-SNAPSHOT\JavaEat-1.0-SNAPSHOT.jar = 1684773707951
+C:\Users\busto\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE170\AbsoluteLayout-RELEASE170.jar = 1684773460605
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\src\main\java = 1685219950264
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\allclasses-index.html = 1685479582372
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\allpackages-index.html = 1685479582375
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\copy.svg = 1685479582434
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\element-list = 1685479582107
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\help-doc.html = 1685479582421
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\index-all.html = 1685479582408
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\index.html = 1685479582345
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\jquery-ui.overrides.css = 1685479582453
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\member-search-index.js = 1685479582383
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\module-search-index.js = 1685479582377
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\overview-summary.html = 1685479582414
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\overview-tree.html = 1685479582339
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\package-search-index.js = 1685479582378
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\script.js = 1685479582431
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\search-page.js = 1685479582440
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\search.html = 1685479582411
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\search.js = 1685479582437
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\serialized-form.html = 1685479582205
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\stylesheet.css = 1685479582428
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\tag-search-index.js = 1685479582385
+C:\Users\busto\Documents\UAH\2.2 Programación\JAVA_EAT\2.7YAAA\JavaEatF\target\site\apidocs\type-search-index.js = 1685479582381
