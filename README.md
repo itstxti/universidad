@@ -20,4 +20,9 @@ Los proyectos en C++ se han desarrollado en CodeBlocks; los más grandes son los
 - [**PL2**](C++/PL2): Simulación del funcionamiento de una red de envío de ayuda humanitaria.
     - **Objetivo**: El objetivo de esta práctica es simular el centro de control de una ONG dedicada a la recogida
     y envío de ayuda humanitaria que presta servicio en las principales poblaciones de la
-    Comunidad de Madrid. 
+    Comunidad de Madrid.
+
+#### Proyectos en Java
+Los proyectos en Java se han desarrollado en Apache NetBeans Ide 17; los más grandes son los siguientes:
+
+- [**JavaEat**](Java/JavaEat): Aplicación de servicio de comida a domicilio.  
