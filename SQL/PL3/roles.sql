@@ -1,0 +1,24 @@
+--ADMIN
+CREATE USER admin WITH LOGIN PASSWORD 'admin';
+ALTER USER admin WITH SUPERUSER;
+
+--CLIENTE
+CREATE USER cliente WITH LOGIN PASSWORD 'cliente';
+CREATE ROLE readonly;
+GRANT USAGE ON SCHEMA ddbb TO readonly;
+GRANT readonly TO cliente;
+
+--GESTOR
+CREATE USER gestor LOGIN PASSWORD 'gestor';
+GRANT USAGE ON SCHEMA ddbb TO gestor;
+GRANT INSERT, UPDATE, DELETE, SELECT ON ALL TABLES IN SCHEMA ddbb TO gestor;
+REVOKE CREATE ON SCHEMA ddbb FROM gestor;
+
+--CRITICO
+CREATE USER critico LOGIN PASSWORD 'critico';
+GRANT USAGE ON SCHEMA ddbb TO critico;
+GRANT SELECT ON ALL TABLES IN SCHEMA ddbb TO critico;
+GRANT INSERT ON TABLE ddbb.criticas TO critico;
+GRANT INSERT ON TABLE ddbb.pagina_web TO critico;
+GRANT INSERT ON TABLE ddbb.auditoria TO critico;
+GRANT INSERT, UPDATE ON TABLE ddbb.puntuacion_media TO critico;
