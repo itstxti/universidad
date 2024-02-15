@@ -39,5 +39,5 @@ Los proyectos en SQL se han desarrollado con PostgreSQL y Visual Studio Code. So
 - [**Cine**](SQL/Cine): Base de datos de cine.
   
     - [**Parte 1**](SQL/Cine/PL1): Creación de tablas y carga de datos desde un cvs.
-    - [**Parte 2**](SQL/Cine/PL2): Creación de dos esquemas. Carga de datos a las tablas temporaltes y después carga de los datos a las tablas finales. También se han realizado consultas.
+    - [**Parte 2**](SQL/Cine/PL2): Creación de dos esquemas. Carga de datos a tablas temporales y después carga de los datos a las tablas finales. También se han realizado consultas.
     - [**Parte 3**](SQL/Cine/PL3): Creación de triggers y usuarios con diferentes permisos. 
