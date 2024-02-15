@@ -9,7 +9,7 @@ En este repositorio se encuentras alguna de los trabajos y ejercicios que he hec
 - [**SQL**](SQL): Proyectos en SQL.
 
 ### Proyectos en C++
-Los proyectos en C++ se han desarrollado en CodeBlocks. Son los siguientes:
+Los proyectos en C++ se han desarrollado en CodeBlocks. Además de los ejercicios, los proyectos son los siguientes:
 
 - [**PL1**](C++/PL1): Simulación del funcionamiento de un servicio de ayuda humanitaria.
     - **Objetivo**: El objetivo de esta práctica es simular la recogida y transporte de paquetes de ayuda
