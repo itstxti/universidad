@@ -14,7 +14,7 @@ def generarMatricula(matriculas_usadas):
     while matricula == '' or matricula in matriculas_usadas:                #comprueba que la variable no está vacía y mira si no está dentro de las matrículas ya usadas
         matricula = str(random.randint(0000, 9999))+random.choice(letras)+random.choice(letras)+random.choice(letras)
     
-    return {"matricula": matricula}
+    return matricula
 
 def generarEmpresa():
     """
@@ -50,16 +50,16 @@ def generarFichero(num_registros):
     la cantidad de registros que nos llega a la función.
     int -> fichero
     """
-    matriculas_usadas = []
+    matriculas_usadas = {}
 
     with open("camiones.txt", "w") as file:
         for i in range(1, num_registros + 1):
             registro = generarRegistro(i, matriculas_usadas)                #generamos el nuevo registro
             matricula_aux = registro.split(',')[1]                          #guardamos la matrícula del registro generado en una variable auxiliar
-            matriculas_usadas.append(matricula_aux)                         #agregamos la matrícula a la lista de matrículas usadas para que no se vualva a usar
+            matriculas_usadas['matricula']  =  matricula_aux                     #agregamos la matrícula a la lista de matrículas usadas para que no se vualva a usar
             file.write(registro)                                            #agregamos el registro a nuestro fichero
 
 def main():
-    generarFichero(30000)
+    generarFichero(20000000)
 
 main()
