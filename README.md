@@ -5,7 +5,7 @@ En este repositorio se encuentras alguna de los trabajos y ejercicios que he hec
 
 - [**C++**](C++): Proyectos en C++.
 - [**Java**](Java): Proyectos en Java.
-- [**Python**](Python): Ejercicios en Python.
+- [**Python**](Python): Proyectos en Python.
 - [**SQL**](SQL): Proyectos en SQL.
 
 ### Proyectos en C++
@@ -32,7 +32,11 @@ Los proyectos en Java se han desarrollado en Apache NetBeans Ide 17. Son los sig
     ##### Credenciales de Administrador:
     - **Usuario:** admin@javaeat.com
     - **Contraseña:** admin
- 
+
+### Proyectos en Python
+Los proyectos en Python se han desarrollado en Visual Studio Code. Son los siguientes:
+- - [**Ejercicios**](Python)
+
 ### Proyectos en SQL
 Los proyectos en SQL se han desarrollado con PostgreSQL y Visual Studio Code. Son los siguientes:
 
