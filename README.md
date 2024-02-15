@@ -8,7 +8,7 @@ En este repositorio se encuentran alguno de los trabajos y ejercicios que he hec
 - [**Python**](Python): Proyectos en Python.
 - [**SQL**](SQL): Proyectos en SQL.
 
-### Proyectos en C++
+### --Proyectos en C++--
 Los proyectos en C++ se han desarrollado en CodeBlocks. Los proyectos son los siguientes:
 
 - [**PL1**](C++/PL1): Simulación del funcionamiento de un servicio de ayuda humanitaria.
