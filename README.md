@@ -5,7 +5,8 @@ En este repositorio se encuentras alguna de los trabajos y ejercicios que he hec
 
 - [**C++**](C++): Proyectos en C++.
 - [**Java**](Java): Proyectos en Java.
-- [**Python**](Python): Proyectos en Python.
+- [**Python**](Python): Ejercicios en Python.
+- [**SQL**](SQL): Proyectos en SQL.
 
 ### Proyectos en C++
 Los proyectos en C++ se han desarrollado en CodeBlocks; los más grandes son los siguientes:
