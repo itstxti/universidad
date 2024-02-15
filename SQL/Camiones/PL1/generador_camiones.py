@@ -14,7 +14,7 @@ def generarMatricula(matriculas_usadas):
     while matricula == '' or matricula in matriculas_usadas:                #comprueba que la variable no está vacía y mira si no está dentro de las matrículas ya usadas
         matricula = str(random.randint(0000, 9999))+random.choice(letras)+random.choice(letras)+random.choice(letras)
     
-    return matricula
+    return {"matricula": matricula}
 
 def generarEmpresa():
     """
@@ -60,6 +60,6 @@ def generarFichero(num_registros):
             file.write(registro)                                            #agregamos el registro a nuestro fichero
 
 def main():
-    generarFichero(20000000)
+    generarFichero(30000)
 
 main()
