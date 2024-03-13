@@ -39,4 +39,4 @@ def muestra_cardinal(n):
 
 
 muestra_cardinal(67)
-muestra_cardinal(99)
+muestra_cardinal(90)
